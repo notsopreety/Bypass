@@ -2,7 +2,7 @@
 	"name": "Samir",
 	"version": "1.0.5",
 	"description": "A simple Facebook Messenger Bot By Samir",
-	"main": "Samir.js",
+	"main": "mirai.js",
 	"scripts": {
 		"start": "node index.js",
 		"login": "node login",
@@ -10,13 +10,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/dodoinfx/SamirBypass/issues"
+		"url": "git+https://github.com/dodoinfx/fruv3"
 	},
 	"keywords": [
 		"bot",
 		"facebook",
 		"projectmirai",
-		"ziarein",
 		"samir",
 		"mirai",
 		"catalizcs",
