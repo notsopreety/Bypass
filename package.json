@@ -2,7 +2,7 @@
 	"name": "Samir",
 	"version": "1.0.5",
 	"description": "A ChatBot Creted For Educational Purpose By Samir",
-	"main": "mirai.js",
+	"main": "samir.js",
 	"scripts": {
 		"start": "node index.js",
 		"login": "node login",
