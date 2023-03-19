@@ -49,6 +49,7 @@
 		"moment-timezone": "",
 		"ms": "",
 		"npmlog": "",
+		"openai": "^3.1.0",
 		"path": "",
 		"pm2": "^5.1.0",
 		"readline": "",
